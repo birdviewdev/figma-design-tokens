@@ -1,0 +1,6 @@
+{
+  "effect-level1-shadow": {"shadowType":"dropShadow","radius":8,"color":"#00000014","offsetX":0,"offsetY":2,"spread":0},
+  "effect-level2-shadow": {"shadowType":"dropShadow","radius":16,"color":"#00000014","offsetX":0,"offsetY":4,"spread":0},
+  "effect-top-shadow": {"shadowType":"dropShadow","radius":16,"color":"#00000014","offsetX":0,"offsetY":4,"spread":0},
+  "effect-bottom-shadow": {"shadowType":"dropShadow","radius":16,"color":"#00000014","offsetX":0,"offsetY":2,"spread":0}
+}

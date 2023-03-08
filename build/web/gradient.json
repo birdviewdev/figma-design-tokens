@@ -1,0 +1,3 @@
+{
+  "gradient-linear-bg-buttongroup": {"gradientType":"linear","rotation":180.00000000000014,"stops":[{"position":0,"color":"#ffffff00"},{"position":0.25,"color":"#ffffff80"},{"position":1,"color":"#ffffffff"}]}
+}
